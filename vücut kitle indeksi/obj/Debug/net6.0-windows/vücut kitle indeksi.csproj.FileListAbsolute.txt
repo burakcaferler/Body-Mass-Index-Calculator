@@ -1,0 +1,34 @@
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.csproj.AssemblyReference.cache
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut_kitle_indeksi.Form1.resources
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.csproj.GenerateResource.cache
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.AssemblyInfoInputs.cache
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.AssemblyInfo.cs
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.exe
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.deps.json
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.runtimeconfig.json
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.dll
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.pdb
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.dll
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\refint\vücut kitle indeksi.dll
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.pdb
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.genruntimeconfig.cache
+C:\Users\Engineering Mode\source\repos\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\ref\vücut kitle indeksi.dll
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.exe
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.deps.json
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.runtimeconfig.json
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.dll
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\bin\Debug\net6.0-windows\vücut kitle indeksi.pdb
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.csproj.AssemblyReference.cache
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut_kitle_indeksi.Form1.resources
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.csproj.GenerateResource.cache
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.AssemblyInfoInputs.cache
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.AssemblyInfo.cs
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.dll
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\refint\vücut kitle indeksi.dll
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.pdb
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\vücut kitle indeksi.genruntimeconfig.cache
+C:\Users\Engineering Mode\Desktop\Projects\vücut kitle indeksi\vücut kitle indeksi\obj\Debug\net6.0-windows\ref\vücut kitle indeksi.dll
